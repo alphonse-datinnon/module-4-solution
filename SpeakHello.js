@@ -30,4 +30,4 @@
     console.log(speakWord + " " + name);
   }
   window.helloSpeaker = helloSpeaker;
-})
+})(window)
